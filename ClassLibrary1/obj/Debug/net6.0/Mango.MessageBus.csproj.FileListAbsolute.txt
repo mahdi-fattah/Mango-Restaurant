@@ -1,0 +1,12 @@
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\bin\Debug\net6.0\Mango.MessageBus.deps.json
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\bin\Debug\net6.0\Mango.MessageBus.dll
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\bin\Debug\net6.0\Mango.MessageBus.pdb
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.csproj.AssemblyReference.cache
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.AssemblyInfoInputs.cache
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.AssemblyInfo.cs
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.dll
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\refint\Mango.MessageBus.dll
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\Mango.MessageBus.pdb
+E:\My Courses\Other Courses\micro Service .net6\Projects\MongoRestaurant\ClassLibrary1\obj\Debug\net6.0\ref\Mango.MessageBus.dll

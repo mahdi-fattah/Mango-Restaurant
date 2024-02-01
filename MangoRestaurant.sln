@@ -1,0 +1,113 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{ACB244CA-28BF-4B8D-A598-E0503EC7D60F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{5FF97635-85AD-481C-A713-DB16A3724EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C30D5EA5-A0EF-479E-8E56-4B595664E650}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.ProductAPI", "Mango.Services.ProductAPI\Mango.Services.ProductAPI.csproj", "{549F43E1-E5BA-4F7B-BDC6-30DFC80AB4A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AEE1412F-C816-4BE7-AB49-CB4AAA0C6459}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.Identity", "Mango.Services.Identity\Mango.Services.Identity.csproj", "{36D8EC13-D435-4D90-AE13-064C3C4FA83D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.ShoppingCartAPI", "Mango.Services.ShoppingCartAPI\Mango.Services.ShoppingCartAPI.csproj", "{74AB2315-369B-45FB-8A27-A3F6DA46ED2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.CouponAPI", "Mango.Services.CouponAPI\Mango.Services.CouponAPI.csproj", "{A0F07FE5-33AD-4AF1-BC64-6CBFDE593772}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{67B373C5-AD56-48A4-BBF2-B6E9BB70A40B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.MessageBus", "ClassLibrary1\Mango.MessageBus.csproj", "{3B0AB4F1-3FE9-42A8-BFB9-23B8AC749233}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.OrderAPI", "Mango.Services.OrderAPI\Mango.Services.OrderAPI.csproj", "{37A279B5-A302-4894-8400-5F45B6FF82CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payments", "Payments", "{20726A94-4B82-441B-9698-B10BBD4B1B51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentProcessor", "IProcessPayment\PaymentProcessor.csproj", "{F194D7EA-F3E8-4586-AE8A-97D98F6B14BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.PaymentAPI", "Mango.Services.PaymentAPI\Mango.Services.PaymentAPI.csproj", "{605EB23F-E89A-4571-915A-7752A2ABEE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.Email", "Mango.Services.Email\Mango.Services.Email.csproj", "{5916F622-F0D4-49A7-88C2-CD16BE4827A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{7FD6A306-479B-47A8-928A-B108CF00B367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.GatewaySolution", "Mango.GatewaySolution\Mango.GatewaySolution.csproj", "{2B27ECD2-58E7-4354-9B35-83432B7A56E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF97635-85AD-481C-A713-DB16A3724EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF97635-85AD-481C-A713-DB16A3724EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF97635-85AD-481C-A713-DB16A3724EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF97635-85AD-481C-A713-DB16A3724EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549F43E1-E5BA-4F7B-BDC6-30DFC80AB4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549F43E1-E5BA-4F7B-BDC6-30DFC80AB4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549F43E1-E5BA-4F7B-BDC6-30DFC80AB4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549F43E1-E5BA-4F7B-BDC6-30DFC80AB4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D8EC13-D435-4D90-AE13-064C3C4FA83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D8EC13-D435-4D90-AE13-064C3C4FA83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D8EC13-D435-4D90-AE13-064C3C4FA83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D8EC13-D435-4D90-AE13-064C3C4FA83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AB2315-369B-45FB-8A27-A3F6DA46ED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AB2315-369B-45FB-8A27-A3F6DA46ED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AB2315-369B-45FB-8A27-A3F6DA46ED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AB2315-369B-45FB-8A27-A3F6DA46ED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F07FE5-33AD-4AF1-BC64-6CBFDE593772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F07FE5-33AD-4AF1-BC64-6CBFDE593772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F07FE5-33AD-4AF1-BC64-6CBFDE593772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F07FE5-33AD-4AF1-BC64-6CBFDE593772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0AB4F1-3FE9-42A8-BFB9-23B8AC749233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0AB4F1-3FE9-42A8-BFB9-23B8AC749233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0AB4F1-3FE9-42A8-BFB9-23B8AC749233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0AB4F1-3FE9-42A8-BFB9-23B8AC749233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A279B5-A302-4894-8400-5F45B6FF82CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A279B5-A302-4894-8400-5F45B6FF82CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A279B5-A302-4894-8400-5F45B6FF82CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A279B5-A302-4894-8400-5F45B6FF82CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F194D7EA-F3E8-4586-AE8A-97D98F6B14BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F194D7EA-F3E8-4586-AE8A-97D98F6B14BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F194D7EA-F3E8-4586-AE8A-97D98F6B14BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F194D7EA-F3E8-4586-AE8A-97D98F6B14BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605EB23F-E89A-4571-915A-7752A2ABEE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605EB23F-E89A-4571-915A-7752A2ABEE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605EB23F-E89A-4571-915A-7752A2ABEE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605EB23F-E89A-4571-915A-7752A2ABEE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5916F622-F0D4-49A7-88C2-CD16BE4827A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5916F622-F0D4-49A7-88C2-CD16BE4827A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5916F622-F0D4-49A7-88C2-CD16BE4827A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5916F622-F0D4-49A7-88C2-CD16BE4827A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B27ECD2-58E7-4354-9B35-83432B7A56E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B27ECD2-58E7-4354-9B35-83432B7A56E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B27ECD2-58E7-4354-9B35-83432B7A56E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B27ECD2-58E7-4354-9B35-83432B7A56E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5FF97635-85AD-481C-A713-DB16A3724EFD} = {ACB244CA-28BF-4B8D-A598-E0503EC7D60F}
+		{549F43E1-E5BA-4F7B-BDC6-30DFC80AB4A0} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{36D8EC13-D435-4D90-AE13-064C3C4FA83D} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{74AB2315-369B-45FB-8A27-A3F6DA46ED2B} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{A0F07FE5-33AD-4AF1-BC64-6CBFDE593772} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{3B0AB4F1-3FE9-42A8-BFB9-23B8AC749233} = {67B373C5-AD56-48A4-BBF2-B6E9BB70A40B}
+		{37A279B5-A302-4894-8400-5F45B6FF82CD} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{F194D7EA-F3E8-4586-AE8A-97D98F6B14BC} = {20726A94-4B82-441B-9698-B10BBD4B1B51}
+		{605EB23F-E89A-4571-915A-7752A2ABEE46} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{5916F622-F0D4-49A7-88C2-CD16BE4827A1} = {C30D5EA5-A0EF-479E-8E56-4B595664E650}
+		{2B27ECD2-58E7-4354-9B35-83432B7A56E4} = {7FD6A306-479B-47A8-928A-B108CF00B367}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5ADE1C-C3F9-4C37-8492-8E61FE8617C8}
+	EndGlobalSection
+EndGlobal

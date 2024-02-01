@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Mango.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Mango.Web.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\11.jpg",
+      "PackagePath": "staticwebassets\\Images\\11.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\11_638249645777185184.jpg",
+      "PackagePath": "staticwebassets\\Images\\11_638249645777185184.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\11_638249645867364699.jpg",
+      "PackagePath": "staticwebassets\\Images\\11_638249645867364699.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\11_638249646071251551.jpg",
+      "PackagePath": "staticwebassets\\Images\\11_638249646071251551.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\11_638249646195118353.jpg",
+      "PackagePath": "staticwebassets\\Images\\11_638249646195118353.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\11_638249649182876597.jpg",
+      "PackagePath": "staticwebassets\\Images\\11_638249649182876597.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12.jpg",
+      "PackagePath": "staticwebassets\\Images\\12.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249646404464521.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249646404464521.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249646466470948.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249646466470948.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249647071618819.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249647071618819.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249647174300155.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249647174300155.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249647349252914.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249647349252914.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249647554618592.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249647554618592.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249647774118481.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249647774118481.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249647885340884.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249647885340884.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249648051657961.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249648051657961.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249648733717766.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249648733717766.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\12_638249649286886593.jpg",
+      "PackagePath": "staticwebassets\\Images\\12_638249649286886593.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\13.jpg",
+      "PackagePath": "staticwebassets\\Images\\13.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\13_638249647265794870.jpg",
+      "PackagePath": "staticwebassets\\Images\\13_638249647265794870.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\13_638249652383802297.jpg",
+      "PackagePath": "staticwebassets\\Images\\13_638249652383802297.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\13_638249659756439556.jpg",
+      "PackagePath": "staticwebassets\\Images\\13_638249659756439556.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\14.jpg",
+      "PackagePath": "staticwebassets\\Images\\14.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Delays_638224348361570820.jpg",
+      "PackagePath": "staticwebassets\\Images\\Delays_638224348361570820.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Delays_638224348440864245.jpg",
+      "PackagePath": "staticwebassets\\Images\\Delays_638224348440864245.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Delays_638224349045808123.jpg",
+      "PackagePath": "staticwebassets\\Images\\Delays_638224349045808123.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Error_Import_638224348281091627.jpg",
+      "PackagePath": "staticwebassets\\Images\\Error_Import_638224348281091627.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Error_Import_638224372075048695.jpg",
+      "PackagePath": "staticwebassets\\Images\\Error_Import_638224372075048695.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Page4_638224348203211977.jpg",
+      "PackagePath": "staticwebassets\\Images\\Page4_638224348203211977.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Page4_638224348701094454.jpg",
+      "PackagePath": "staticwebassets\\Images\\Page4_638224348701094454.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Page4_638224348994579710.jpg",
+      "PackagePath": "staticwebassets\\Images\\Page4_638224348994579710.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\Page4_638224371923104332.jpg",
+      "PackagePath": "staticwebassets\\Images\\Page4_638224371923104332.jpg"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\mango.png",
+      "PackagePath": "staticwebassets\\Images\\mango.png"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\Images\\order.PNG",
+      "PackagePath": "staticwebassets\\Images\\order.PNG"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\css\\bootstrap-datetimepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\js\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\My Courses\\Other Courses\\micro Service .net6\\Projects\\MongoRestaurant\\Mango.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Mango.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Mango.Web.props",
+      "PackagePath": "build\\Mango.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Mango.Web.props",
+      "PackagePath": "buildMultiTargeting\\Mango.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Mango.Web.props",
+      "PackagePath": "buildTransitive\\Mango.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
